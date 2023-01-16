@@ -393,8 +393,7 @@ ul>li {
 .product__slider--ctrl--prev {
     position: absolute;
     padding-left: 20px;
-    left: 0;
-    transform: translateX(36px);
+    left: -36px;
 }
 
 .product__slider--ctrl--prev::after {
